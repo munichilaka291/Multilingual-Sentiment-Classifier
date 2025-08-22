@@ -138,4 +138,4 @@ print(predict_sentiment(["Worst service ever!", "This product is amazing!"]))
 ## 📌 Author  
 👤 **Chilaka Bala Muneendra**  
 📧 [munichilaka291@gmail.com]  
-🌐 [https://github.com/6301247096]  
+🌐 [https://github.com/munichilaka291]  
